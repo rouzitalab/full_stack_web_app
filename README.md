@@ -1,4 +1,4 @@
 # full_stack_web_app
 
-Front-End: Vue.js
-Back-End: Express.js
+<b>Front-End</b>: Vue.js <br>
+<b>Back-End</b>: Express.js
